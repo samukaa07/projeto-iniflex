@@ -24,13 +24,17 @@ Projeto desenvolvido para o teste prático de programação da Iniflex.
 - Cálculo do total de salários
 - Cálculo da quantidade de salários mínimos
 
-## Estrutura
+## Estrutura do Projeto
 
+```text
 src/
-├── model/
-│   ├── Pessoa.java
-│   └── Funcionario.java
-└── Main.java
+└── main/
+    └── java/
+        ├── model/
+        │   ├── Pessoa.java
+        │   └── Funcionario.java
+        └── Main.java
+```
 
 ## Como executar
 
